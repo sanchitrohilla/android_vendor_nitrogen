@@ -72,6 +72,10 @@ PRODUCT_PACKAGES += \
     Stk \
     Terminal
 
+# Fonts
+PRODUCT_PACKAGES += \
+      DU-Fonts
+
 # Init.d script support
 PRODUCT_COPY_FILES += \
     vendor/nitrogen/prebuilt/common/bin/sysinit:system/bin/sysinit \
