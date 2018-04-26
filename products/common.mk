@@ -67,6 +67,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     DaylightHeaderNitrogen \
     Launcher3 \
+    ViaBrowser \
+    RetroMusicPlayer \
+    SnapdragonCamera \
     NitrogenWallpapers \
     OmniJaws \
     Stk \
