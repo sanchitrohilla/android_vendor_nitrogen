@@ -72,6 +72,7 @@ PRODUCT_PACKAGES += \
     SnapdragonCamera \
     NitrogenWallpapers \
     OmniJaws \
+    OmniStyle \
     Stk \
     Terminal
 
