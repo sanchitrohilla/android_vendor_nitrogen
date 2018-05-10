@@ -111,3 +111,6 @@ $(call inherit-product-if-exists, vendor/nitrogen/products/bootanimation.mk)
 
 # Themes
 $(call inherit-product-if-exists, vendor/nitrogen/products/themes.mk)
+
+#Sounds
+$(call inherit-product-if-exists, vendor/nitrogen/products/sounds.mk)
